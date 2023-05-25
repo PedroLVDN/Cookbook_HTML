@@ -13,8 +13,17 @@ header {
 }
 
 h1 {
-  font-family: carters;
+  font-family: Verdaba, sans-serif;
   font-size: 80px;
+}
+h2 {  
+  font-family: carters;
+  font-size: 40px
+  }
+  
+h3 {
+  font-family: carters;
+  font-size: 40px
 }
 
 
@@ -23,6 +32,8 @@ nav {
   background-color: #E57C23;
   text-align: center;
   padding: 10px;
+  font-family: Gidole;
+  font-size: 30px
 }
 
  p {
