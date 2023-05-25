@@ -1,0 +1,43 @@
+ul {
+  list-style: none;
+}
+a {
+  display: inline-block;
+}
+
+header {
+  background-color: #025464;
+  text-align: center;
+  padding: 40px;
+  color: #fff
+}
+
+h1 {
+  font-family: carters;
+  font-size: 80px;
+}
+
+
+
+nav {
+  background-color: #E57C23;
+  text-align: center;
+  padding: 10px;
+}
+
+ p {
+margin-right: 70px;
+margin-left: 70px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  background-color: #E57C23;
+  text-align: center;
+  padding: 10px;
+  color: #050505;
+}
